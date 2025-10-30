@@ -1,0 +1,63 @@
+🧠 LEVEL 1 — Easy (Basics & Loops)
+
+Find Maximum and Minimum in Array
+Input: [4, 2, 8, 6, 5] → Output: Max=8, Min=2
+
+Sum of Elements in an Array
+Input: [1, 2, 3, 4] → Output: 10
+
+Count Even and Odd Numbers in a List
+Input: [1, 2, 3, 4, 5, 6] → Output: Even=3, Odd=3
+
+Reverse a List / Array
+Input: [10, 20, 30] → Output: [30, 20, 10]
+
+Check if a Number is Prime
+Input: 7 → Output: Prime
+
+Find Factorial of a Number
+Input: 5 → Output: 120
+
+Find Largest of Three Numbers
+Input: 10, 20, 5 → Output: 20
+
+Print Fibonacci Series up to n Terms
+Input: n=5 → Output: 0 1 1 2 3
+
+Find Second Largest Number in List
+Input: [1, 3, 4, 5, 0, 2] → Output: 4
+
+Find All Numbers Divisible by 3 and 5 in a Range
+Input: 1 to 30 → Output: [15, 30]
+
+🧩 LEVEL 2 — Intermediate (Logic & Conditions)
+
+Count Occurrences of an Element in List
+Input: [1, 2, 2, 3, 2, 4], Element: 2 → Output: 3
+
+Find All Duplicate Elements in List
+Input: [1, 2, 3, 2, 1, 4] → Output: [1, 2]
+
+Move All Zeros to the End of Array
+Input: [0, 1, 0, 3, 12] → Output: [1, 3, 12, 0, 0]
+
+Find Missing Number in Sequence (1 to n)
+Input: [1, 2, 4, 5, 6] → Output: 3
+
+Find Intersection of Two Arrays
+Input: [1,2,3,4], [3,4,5,6] → Output: [3,4]
+
+Find Union of Two Arrays (Unique Elements)
+Input: [1,2,3], [3,4,5] → Output: [1,2,3,4,5]
+
+Rotate Array by k Steps
+Input: [1,2,3,4,5,6,7], k=3 → Output: [5,6,7,1,2,3,4]
+
+Check if String is Palindrome
+Input: "madam" → Output: True
+
+Count Vowels in a String
+Input: "hello world" → Output: 3
+
+Find Leaders in an Array ✅ (the one you just solved!)
+Input: [16, 17, 4, 3, 5, 2] → Output: [17, 5, 2]
