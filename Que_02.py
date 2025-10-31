@@ -3,6 +3,6 @@
 
 def sum_of_array(arr):
     result = sum(arr)
-    print(result)
+    return result
 
-sum_of_array([1, 2, 3, 4])
+print(sum_of_array([1, 2, 3, 4]))

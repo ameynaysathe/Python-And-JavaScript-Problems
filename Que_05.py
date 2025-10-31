@@ -11,5 +11,5 @@ def is_prime(n):
         
     return "Prime"
 
-print(is_prime(8))
+print(is_prime(7))
     
